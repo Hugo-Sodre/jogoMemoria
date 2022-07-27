@@ -1,0 +1,31 @@
+
+#botao{
+    padding: 15px;
+    border-radius: 10%;
+    border: solid 1px;
+}
+
+#seletor{
+    padding: 10px;
+    font-size: 20px;
+}
+.divs2{
+    
+    padding: 20px;
+    border: solid 1px grey;
+    width: 100rem;
+    height: 100 rem;
+    
+}
+
+.celula{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.linha{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
